@@ -10,3 +10,8 @@ def write_text_file_with_name():
     print("File was created with the following name", filename)
 
 write_text_file_with_name()
+
+def helloWorld():
+    print(‘Hello World’)
+
+helloWorld()
